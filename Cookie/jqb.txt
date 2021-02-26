@@ -1,0 +1,3 @@
+hostname =  jqb.iphonezhuan.com
+#金钱豹
+^http://jqb.iphonezhuan.com/ url script-request-body https://raw.githubusercontent.com/age174/-/main/jqb.js

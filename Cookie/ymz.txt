@@ -1,0 +1,3 @@
+hostname = ymz.iphonezhuan.com
+#羊毛赚
+^http://ymz.iphonezhuan.com/ url script-request-body https://raw.githubusercontent.com/age174/-/main/ymz.js

@@ -1,0 +1,3 @@
+hostname = *.huoshan.com
+#抖音火山版
+/hotsoon/flame/task_done/? url script-request-body https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/huoshan.js

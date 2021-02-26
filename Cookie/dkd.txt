@@ -1,0 +1,3 @@
+hostname = dkd-api.dysdk.com
+#获取多看点Cookie
+^http:\/\/dkd-api\.dysdk\.com\/user\/index url script-request-body https://raw.githubusercontent.com/age174/-/main/dkd.js
