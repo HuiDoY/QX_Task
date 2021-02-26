@@ -108,6 +108,6 @@
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/TTyy.txt, tag=TT语音Cookie获取" 
   }, {
         "config": "0 4 * * * https://raw.githubusercontent.com/HuiDoY/QX_Task/main/JS/sqxs.js, tag=书旗小说, img-url=https://qxzy.top/rules/QuantumultX/img/sqxs.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/sqxs.txt, tag=TT语音Cookie获取"
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/sqxs.txt, tag=书旗小说Cookie获取"
   }]
 }
