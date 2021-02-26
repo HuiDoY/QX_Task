@@ -105,6 +105,6 @@
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/jx_sign.txt, tag=京喜财富岛提现Cookie获取" 
   }, {
         "config": "0 8 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/TT.js, tag=TT语音, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/TTyy.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/jx_sign.txt, tag=TT语音Cookie获取"
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/TTyy.txt, tag=TT语音Cookie获取"
   }]
 }
