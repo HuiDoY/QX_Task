@@ -1,18 +1,3 @@
-#进入APP点 - 我的 - 任务中心
-#获取签到Cookie
-#阅读一篇文章或者视频(等圈圈转完)
-#获取阅读请求Body&阅读时长
-#在阅读文章拉下面有个惊喜红包，点击获取(概率性，如果没有，请跳过)
-#获取惊喜红包
-#获取100个文章&100个视频的Body，由于获取量大，可以抽空阅读文章或视频，获取更多的Body
-
-#各执行一次task任务 中青看点签到&开转盘宝箱&阅读时长 / 中青看点自动阅读，看脚本运行是否正常
-
-#获取浏览赚&看看赚Cookie
-#进入中青任务中心，找到看看赚入口 点击里面的任务获取Cookie，每个任务都获取一遍Cookie，会叠加。 然后手动运行一次脚本看看是否成功。
-#在看看赚的任务栏上方，点击阅读文章获取浏览赚Cookie
-
-#执行一次task任务 中青看点浏览赚&看看赚，看脚本运行是否正常
 hostname = ios.baertt.com
 #中青看点阅读Body获取
 https:\/\/ios\.baertt\.com\/v5\/article\/info\/get\.json url script-request-header https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js
