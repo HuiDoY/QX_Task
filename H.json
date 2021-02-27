@@ -30,13 +30,13 @@
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/zmsp.txt, tag=芝嫲视频Cookie获取"
   }, {
         "config": "*/6 * * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js, tag=笑谱ziye版, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/iboxpay.txt, tag=Cookie获取"
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/iboxpay.txt, tag=笑谱ziye版Cookie获取"
   }, {
         "config": "5 9,16,21 * * * https://raw.githubusercontent.com/age174/-/main/dkdsp.js, tag=多看点视频, img-url= https://gitee.com/ydj0602/hym/raw/img/DKD.PNG",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/dkdsp.txt, tag=Cookie获取"
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/dkdsp.txt, tag=多看点视频Cookie获取"
   }, {
         "config": "*/10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点日常, img-url=https://gitee.com/ydj0602/hym/raw/img/DKD.PNG",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/dkd.txt, tag=笑谱ziye版Cookie获取"
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/dkd.txt, tag=多看点日常Cookie获取"
   }, {
         "config": "*/5 6-23 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/huoshan.js, tag=抖音火山版, img-url=https://gitee.com/ydj0602/hym/raw/img/DYHSB.PNG",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/huoshan.txt, tag=抖音火山版Cookie获取"
