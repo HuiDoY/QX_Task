@@ -93,7 +93,7 @@
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/didichuxing.txt, tag=滴滴出行Cookie获取"
   }, {
         "config": "10 1-23 * * * https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/Youth/Youth_AutoRead.js, tag=中青阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/youth_read.txt, tag=中青阅读Cookie获取"
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/youth.txt, tag=中青阅读Cookie获取"
   }, {
         "config": "30 6 * * * https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, tag=中青看看赚, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/youth_banner.txt, tag=中青看看赚Cookie获取"
