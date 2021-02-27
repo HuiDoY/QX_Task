@@ -96,7 +96,7 @@
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/youth_read.txt, tag=中青阅读Cookie获取"
   }, {
         "config": "30 6 * * * https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, tag=中青看看赚, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/youth_read.txt, tag=中青看看赚Cookie获取"
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/youth.txt, tag=中青看看赚Cookie获取"
   }, {
         "config": "*/14 0-23 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/youth.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/youth_read.txt, tag=中青看点极速版Cookie获取"
