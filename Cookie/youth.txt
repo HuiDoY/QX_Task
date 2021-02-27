@@ -1,7 +1,7 @@
 hostname = ios.baertt.com, kd.youth.cn
 #中青看点
 https:\/\/kd\.youth\.cn\/WebApi\/NewTaskIos\/getTaskList url script-request-header https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
-https?:\/\/ios\.baertt\.com\/v5\/article\/complete url script-request-body https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
-https:\/\/ios\.baertt\.com\/v5\/article\/red_packet url script-request-body https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
-https:\/\/ios\.baertt\.com\/v5\/user\/app_stay\.json url script-request-body https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
-https:\/\/ios\.baertt\.com\/v5\/\w+\/withdraw\d?\.json url script-request-body https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
+https?:\/\/ios\.baertt\.com\/v5\/article\/complete url script-request-header https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
+https:\/\/ios\.baertt\.com\/v5\/article\/red_packet url script-request-header https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
+https:\/\/ios\.baertt\.com\/v5\/user\/app_stay\.json url script-request-header https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
+https:\/\/ios\.baertt\.com\/v5\/\w+\/withdraw\d?\.json url script-request-header https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
