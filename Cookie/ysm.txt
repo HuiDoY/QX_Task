@@ -1,0 +1,2 @@
+hostname = .*.top
+^http://.*./yunonline/v1/ url script-request-body https://raw.githubusercontent.com/age174/-/main/ysm.js
