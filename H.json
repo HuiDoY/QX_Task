@@ -2,8 +2,20 @@
     "name": "The One",
     "description": "啦啦啦",
     "task": [{
+        "config": "10 */1 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点签到&开转盘宝箱&阅读时长, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/youth_cookie.txt, tag=中青看点签到&开转盘宝箱&阅读时长Cookie获取"
+  }, {
+        "config": "10 */2 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js, tag=中青看点自动阅读, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/youth_read.txt, tag=中青看点自动阅读Cookie获取"
+  }, {
+        "config": "30 6 * * * https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, tag=中青看点看看赚&浏览赚, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/youth_banner.txt, tag=中青看点看看赚&浏览赚Cookie获取"
+  }, {
         "config": "15 12,14,16,20 * * * https://raw.githubusercontent.com/age174/-/main/fqkk.js, tag=番茄看看, img-url=https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/fqkk.txt, tag=番茄看看Cookie获取"
+  }, {
+        "config": "15 12,14,16,20,22 * * * https://raw.githubusercontent.com/age174/-/main/ysm.js, tag=云扫码, img-url=https://s3.ax1x.com/2021/02/28/6CRWb8.jpg",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/ysm.txt, tag=云扫码Cookie获取"
   }, {
         "config": "*/10 * * * * https://raw.githubusercontent.com/age174/-/main/sz.js, tag=闪挣, img-url=https://ae01.alicdn.com/kf/U0eeed99dbe9a4cf99b73aaed7902a3a9z.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/sz.txt, tag=闪挣Cookie获取"
@@ -53,7 +65,7 @@
         "config": "40 * * * * https://qxzy.top/rules/QuantumultX/js/zy/dyjsb.js, tag=抖音极速版, img-url=https://qxzy.top/rules/QuantumultX/img/dyjsb.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/dyjsb.txt, tag=抖音极速版Cookie获取"
   }, {
-        "config": "0,30 * * * * https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js, tag=步步宝,, img-url=https://qxzy.top/rules/QuantumultX/img/bbb.png",
+        "config": "0,30 * * * * https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js, tag=步步宝, img-url=https://qxzy.top/rules/QuantumultX/img/bbb.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/bbb.txt, tag=步步宝Cookie获取"
   }, {
         "config": "*/20 0-23 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js, tag=葱花视频, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/chonghua.png",
@@ -103,14 +115,5 @@
   }, {
         "config": "015,35 0,12 * * * https://raw.githubusercontent.com/age174/-/main/rxm.js, tag=任性猫, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z005.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/rxm.txt, tag=任性猫Cookie获取"
-  }, {
-        "config": "10 */1 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点签到&开转盘宝箱&阅读时长, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/youth_cookie.txt, tag=中青看点签到&开转盘宝箱&阅读时长Cookie获取"
-  }, {
-        "config": "10 */2 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js, tag=中青看点自动阅读, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/youth_read.txt, tag=中青看点自动阅读Cookie获取"
-  }, {
-        "config": "30 6 * * * https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, tag=中青看点看看赚&浏览赚, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/youth_banner.txt, tag=中青看点看看赚&浏览赚Cookie获取"
   }]
 }
