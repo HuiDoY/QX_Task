@@ -20,6 +20,9 @@
         "config": "*/10 * * * * https://raw.githubusercontent.com/age174/-/main/sz.js, tag=闪挣, img-url=https://ae01.alicdn.com/kf/U0eeed99dbe9a4cf99b73aaed7902a3a9z.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/sz.txt, tag=闪挣Cookie获取"
   }, {
+        "config": "15 10 * * * https://raw.githubusercontent.com/age174/-/main/ymz.js, tag=羊毛赚, img-url=https://s3.ax1x.com/2021/02/06/yYzYWR.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/ymz.txt, tag=羊毛赚Cookie获取"
+  }, {
         "config": "15 12,14,16,20 * * * https://raw.githubusercontent.com/age174/-/main/dka.js, tag=蛋咖, img-url=https://s3.ax1x.com/2021/02/28/6C3Gpn.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/danka.txt, tag=走路赚点钱Cookie获取"
   }, {
@@ -37,9 +40,6 @@
   }, {
         "config": "15 10 * * * https://raw.githubusercontent.com/age174/-/main/mhdsp.js, tag=陌嗨短视频, img-url= https://gitee.com/ydj0602/hym/raw/img/MHDSP.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/mhdsp.txt, tag=陌嗨短视频Cookie获取"
-  }, {
-        "config": "15 10 * * * https://raw.githubusercontent.com/age174/-/main/ymz.js, tag=羊毛赚, img-url=https://s3.ax1x.com/2021/02/06/yYzYWR.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/ymz.txt, tag=羊毛赚Cookie获取"
   }, {
         "config": "10 */1 * * * https://raw.githubusercontent.com/age174/-/main/zmsp.js, tag=芝嫲视频, img-url= https://s3.ax1x.com/2021/02/06/yYzeWn.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/zmsp.txt, tag=芝嫲视频Cookie获取"
