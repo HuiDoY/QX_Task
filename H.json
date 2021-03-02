@@ -23,12 +23,10 @@
         "config": "8 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧签到, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/tieba.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/tieba.txt, tag=百度贴吧签到Cookie获取"
   }, {
-        "config": "10 */1 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点签到&开转盘宝箱&阅读时长, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/youth.png
-",
+        "config": "10 */1 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点签到&开转盘宝箱&阅读时长, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/youth.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/youth_cookie.txt, tag=中青看点签到&开转盘宝箱&阅读时长Cookie获取"
   }, {
-        "config": "10 */2 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js, tag=中青看点自动阅读, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/youth.png
-",
+        "config": "10 */2 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js, tag=中青看点自动阅读, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/youth.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/youth_read.txt, tag=中青看点自动阅读Cookie获取"
   }, {
         "config": "30 6 * * * https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, tag=中青看点看看赚&浏览赚, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/youth.png",
