@@ -1,2 +1,0 @@
-hostname = ios.baertt.com
-http-request,pattern=^https://ios\.baertt\.com/v5/article/info/get\.json url script-request-body https://raw.githubusercontent.com/ztxtop/x/main/zqread.js
