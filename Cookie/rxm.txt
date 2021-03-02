@@ -1,3 +1,0 @@
-hostname = cat.rxmao.net
-#任性猫
-https://cat.rxmao.net/miner/cat.php url script-request-body https://raw.githubusercontent.com/age174/-/main/rxm.js
