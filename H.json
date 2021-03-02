@@ -98,12 +98,6 @@
         "config": "20 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js, tag=人人视频, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/rrtv.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/rrtv.txt, tag=人人视频Cookie获取"
   }, {
-        "config": "20 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/iQIYI.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/iqiyi.txt, tag=爱奇艺Cookie获取"
-  }, {
-        "config": "10 9 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/didi_checkin.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/didichuxing.txt, tag=滴滴出行Cookie获取"
-  }, {
         "config": "0 0 * * * https://raw.githubusercontent.com/HuiDoY/QX_Task/main/JS/jx_cfdtx.js, tag=京喜财富岛提现, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jx_sign.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/jx_sign.txt, tag=京喜财富岛提现Cookie获取"
   }, {
