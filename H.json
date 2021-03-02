@@ -103,8 +103,5 @@
   }, {
         "config": "0 8 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/TT.js, tag=TT语音, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/TTyy.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/TTyy.txt, tag=TT语音Cookie获取"
-  }, {
-        "config": "015,35 0,12 * * * https://raw.githubusercontent.com/age174/-/main/rxm.js, tag=任性猫, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z005.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/rxm.txt, tag=任性猫Cookie获取"
   }]
 }
