@@ -8,14 +8,14 @@
         "config": "2 0 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js, tag=微博, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/weibo.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/weibo.txt, tag=微博Cookie获取"
   }, {
+        "config": "5 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/acfun/acfun.js, tag=AcFun, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/acfun.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/acfun.txt, tag=AcFun Cookie获取"
+  }, {
         "config": "4 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东签到, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/jd.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/JD_DailyBonus.txt, tag=京东签到Cookie获取"
   }, {
         "config": "3 0 * * * https://qxzy.top/rules/QuantumultX/js/jd_cash.js, tag=签到领现金, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/JD_DailyBonus.txt, tag=签到领现金Cookie获取"
-  }, {
-        "config": "5 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/acfun/acfun.js, tag=AcFun, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/acfun.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/acfun.txt, tag=AcFun Cookie获取"
   }, {
         "config": "6 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js, tag=哔哩哔哩, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/bilibili.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/bilibili.txt, tag=哔哩哔哩Cookie获取"
