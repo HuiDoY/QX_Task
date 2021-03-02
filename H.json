@@ -23,6 +23,9 @@
         "config": "15 10 * * * https://raw.githubusercontent.com/age174/-/main/ymz.js, tag=羊毛赚, img-url=https://s3.ax1x.com/2021/02/06/yYzYWR.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/ymz.txt, tag=羊毛赚Cookie获取"
   }, {
+        "config": "15 10 * * * https://raw.githubusercontent.com/age174/-/main/mhdsp.js, tag=陌嗨短视频, img-url= https://gitee.com/ydj0602/hym/raw/img/MHDSP.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/mhdsp.txt, tag=陌嗨短视频Cookie获取"
+  }, {
         "config": "15 12,14,16,20 * * * https://raw.githubusercontent.com/age174/-/main/dka.js, tag=蛋咖, img-url=https://s3.ax1x.com/2021/02/28/6C3Gpn.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/danka.txt, tag=蛋咖Cookie获取"
   }, {
@@ -38,13 +41,10 @@
         "config": "15 0 * * * https://raw.githubusercontent.com/age174/-/main/jqb.js, tag=金钱豹, img-url=https://ftp.bmp.ovh/imgs/2021/02/9e6d449acb9b6889.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/jqb.txt, tag=金钱豹Cookie获取"
   }, {
-        "config": "15 10 * * * https://raw.githubusercontent.com/age174/-/main/mhdsp.js, tag=陌嗨短视频, img-url= https://gitee.com/ydj0602/hym/raw/img/MHDSP.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/mhdsp.txt, tag=陌嗨短视频Cookie获取"
-  }, {
         "config": "10 */1 * * * https://raw.githubusercontent.com/age174/-/main/zmsp.js, tag=芝嫲视频, img-url= https://s3.ax1x.com/2021/02/06/yYzeWn.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/zmsp.txt, tag=芝嫲视频Cookie获取"
   }, {
-        "config": "*/6 * * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js, tag=笑谱ziye版, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png",
+        "config": "0 */30 8-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/iboxpay.js, tag=笑谱, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/iboxpay.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/iboxpay.txt, tag=笑谱ziye版Cookie获取"
   }, {
         "config": "5 9,16,21 * * * https://raw.githubusercontent.com/age174/-/main/dkdsp.js, tag=多看点视频, img-url= https://gitee.com/ydj0602/hym/raw/img/DKD.PNG",
@@ -55,9 +55,6 @@
   }, {
         "config": "*/5 6-23 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/huoshan.js, tag=抖音火山版, img-url=https://gitee.com/ydj0602/hym/raw/img/DYHSB.PNG",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/huoshan.txt, tag=抖音火山版Cookie获取"
-  }, {
-        "config": "*/5 * * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js, tag=笑谱执意版, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/xp.txt, tag=笑谱执意版Cookie获取"
   }, {
         "config": "0 9 * * * https://raw.githubusercontent.com/ZhiYi-N/script/master/kkd.js, tag=快看点, img-url=https://qxzy.top/rules/QuantumultX/img/kkd.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/kkd.txt, tag=快看点Cookie获取"
