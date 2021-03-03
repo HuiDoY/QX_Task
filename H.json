@@ -38,9 +38,6 @@
         "config": "15 12,14,16,20,22 * * * https://raw.githubusercontent.com/age174/-/main/ysm.js, tag=云扫码, img-url=https://s3.ax1x.com/2021/02/28/6CRWb8.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/ysm.txt, tag=云扫码Cookie获取"
   }, {
-        "config": "*/10 * * * * https://raw.githubusercontent.com/age174/-/main/sz.js, tag=闪挣, img-url=https://ae01.alicdn.com/kf/U0eeed99dbe9a4cf99b73aaed7902a3a9z.jpg",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/sz.txt, tag=闪挣Cookie获取"
-  }, {
         "config": "15 10 * * * https://raw.githubusercontent.com/age174/-/main/ymz.js, tag=羊毛赚, img-url=https://s3.ax1x.com/2021/02/06/yYzYWR.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/ymz.txt, tag=羊毛赚Cookie获取"
   }, {
@@ -49,6 +46,12 @@
   }, {
         "config": "0 */30 8-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/iboxpay.js, tag=笑谱, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/iboxpay.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/iboxpay.txt, tag=笑谱Cookie获取"
+  }, {
+        "config": "0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js, tag=悦动族, img-url=https://gitee.com/ydj0602/hym/raw/img/YDZ.PNG",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/yuedongzu.txt, tag=悦动族Cookie获取"
+  }, {
+        "config": "*/10 * * * * https://raw.githubusercontent.com/age174/-/main/sz.js, tag=闪挣, img-url=https://ae01.alicdn.com/kf/U0eeed99dbe9a4cf99b73aaed7902a3a9z.jpg",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/sz.txt, tag=闪挣Cookie获取"
   }, {
         "config": "15 12,14,16,20 * * * https://raw.githubusercontent.com/age174/-/main/dka.js, tag=蛋咖, img-url=https://s3.ax1x.com/2021/02/28/6C3Gpn.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/danka.txt, tag=蛋咖Cookie获取"
