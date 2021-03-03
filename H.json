@@ -98,7 +98,7 @@
         "config": "3,30 0 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockcow.js, tag=活动-长牛来了, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/txstockcow.txt, tag=活动-长牛来了Cookie获取"
   }, {
-        "config": "7 0 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/7days.js, tag=梨涡签到领现金, img-url=https://raw.githubusercontent.com/Orz-3/task/master/liwo.png",
+        "config": "7 0 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/7days.js, tag=梨涡签到领现金, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/liwo.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/7days.txt, tag=梨涡签到领现金Cookie获取"
   }, {
         "config": "0 0 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/yiLi.js, tag=伊利乳品, img-url=https://raw.githubusercontent.com/id77/QuantumultX/master/icon/yiLi.png",
@@ -113,7 +113,7 @@
         "config": "0 0 * * * https://raw.githubusercontent.com/HuiDoY/QX_Task/main/JS/jx_cfdtx.js, tag=京喜财富岛提现, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jx_sign.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/jx_sign.txt, tag=京喜财富岛提现Cookie获取"
   }, {
-        "config": "0 8 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/TT.js, tag=TT语音, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/TTyy.png",
+        "config": "0 8 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/TT.js, tag=TT语音, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/TT.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/TTyy.txt, tag=TT语音Cookie获取"
   }, {
         "config": "0 12 * * * https://raw.githubusercontent.com/HuiDoY/QX_Task/main/JS/%E4%B9%A6%E6%97%97%E5%B0%8F%E8%AF%B4/sqxs.js, tag=书旗小说, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/sqxs.png",
