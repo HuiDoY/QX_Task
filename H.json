@@ -47,6 +47,9 @@
         "config": "0 */30 8-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/iboxpay.js, tag=笑谱, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/iboxpay.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/iboxpay.txt, tag=笑谱Cookie获取"
   }, {
+        "config": "15 0,6,12,18, * * * https://raw.githubusercontent.com/age174/-/main/xsmm.js, tag=悬赏喵喵, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/xuanshangmaomao.txt, tag=悬赏喵喵Cookie获取"
+  }, {
         "config": "0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js, tag=悦动族, img-url=https://gitee.com/ydj0602/hym/raw/img/YDZ.PNG",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/yuedongzu.txt, tag=悦动族Cookie获取"
   }, {
