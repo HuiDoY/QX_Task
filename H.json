@@ -50,6 +50,9 @@
         "config": "15 0,6,12,18, * * * https://raw.githubusercontent.com/age174/-/main/ddxq.js, tag=嘀嗒星球, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/didaxingqiu.txt, tag=嘀嗒星球Cookie获取"
   }, {
+        "config": "15 50 */3 * * * https://raw.githubusercontent.com/age174/-/main/zmsp.js, tag=芝嫲视频肥皂版, img-url=https://s3.ax1x.com/2021/02/06/yYzeWn.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/zhimashipin.txt, tag=芝麻视频肥皂版Cookie获取"
+  }, {
         "config": "0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.js, tag=全民悦动, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X005.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/quanminyuedong.txt, tag=全民悦动Cookie获取"
   }, {
