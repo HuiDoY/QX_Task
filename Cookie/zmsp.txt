@@ -1,3 +1,0 @@
-hostname = api.sxsjyzm.com
-#芝麻视频
-^https://api.sxsjyzm.com/api2/loot/index url script-request-body https://raw.githubusercontent.com/age174/-/main/zmsp.js
