@@ -41,6 +41,9 @@
         "config": "15 13 * * * https://raw.githubusercontent.com/age174/-/main/hldsp.js, tag=哈喽短视频, img-url=https://ae01.alicdn.com/kf/Uda8ecbbe50444fe293b538cbccf9d719q.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/halouduanshipin.txt, tag=哈喽短视频Cookie获取"
   }, {
+        "config": "20 12 * * * https://raw.githubusercontent.com/age174/-/main/xyzd.js, tag=幸运赚点, img-url=https://ae01.alicdn.com/kf/U1680ecdfa17544669c71e00400c542e31.jpg",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/xingyunzhuandian.txt, tag=幸运赚点Cookie获取"
+  }, {
         "config": "15 10 * * * https://raw.githubusercontent.com/age174/-/main/ymz.js, tag=羊毛赚, img-url=https://s3.ax1x.com/2021/02/06/yYzYWR.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/ymz.txt, tag=羊毛赚Cookie获取"
   }, {
