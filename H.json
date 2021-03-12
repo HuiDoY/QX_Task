@@ -137,7 +137,7 @@
         "config": "0 8 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/TT.js, tag=TT语音, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/TT.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/TTyy.txt, tag=TT语音Cookie获取"
   }, {
-        "config": "0 12 * * * https://raw.githubusercontent.com/HuiDoY/QX_Task/main/JS/%E4%B9%A6%E6%97%97%E5%B0%8F%E8%AF%B4/sqxs.js, tag=书旗小说, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/sqxs.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/sqxs.txt, tag=书旗小说Cookie获取"
+        "config": "0 12 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/shuqi.js, tag=书旗小说, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/sqxs.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/Cookie/shuqixiaoshuo.txt, tag=书旗小说Cookie获取"
   }]
 }
