@@ -1,7 +1,0 @@
-hostname = ocean.shuqireader.com
-#书旗小说Cookie
-https://ocean.shuqireader.com/api/ad/v1/api/prize/lottery url script-request-body https://raw.githubusercontent.com/HuiDoY/QX_Task/main/JS/%E4%B9%A6%E6%97%97%E5%B0%8F%E8%AF%B4/sqxsgetck.js
-https://ocean.shuqireader.com/api/activity/activity/v1/lottery/draw url script-request-body https://raw.githubusercontent.com/HuiDoY/QX_Task/main/JS/%E4%B9%A6%E6%97%97%E5%B0%8F%E8%AF%B4/sqxsgetck.js
-https://ocean.shuqireader.com/api/activity/xapi/gold/record url script-request-body https://raw.githubusercontent.com/HuiDoY/QX_Task/main/JS/%E4%B9%A6%E6%97%97%E5%B0%8F%E8%AF%B4/sqxsgetck.js
-https://ocean.shuqireader.com/api/prizecenter/xapi/prize/manual/receive url script-request-body https://raw.githubusercontent.com/HuiDoY/QX_Task/main/JS/%E4%B9%A6%E6%97%97%E5%B0%8F%E8%AF%B4/sqxsgetck.js
-https://ocean.shuqireader.com/api/ad/v1/api/prize/readpage/pendant/lottery url script-request-body https://raw.githubusercontent.com/HuiDoY/QX_Task/main/JS/%E4%B9%A6%E6%97%97%E5%B0%8F%E8%AF%B4/sqxsgetck.js
