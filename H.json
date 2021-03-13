@@ -119,7 +119,7 @@
         "config": "3,30 0 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockcow.js, tag=活动-长牛来了, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/txstockcow.txt, tag=活动-长牛来了Cookie获取"
   }, {
-        "config": "7 0 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/7days.js, tag=梨涡签到领现金, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/master/Color/liwo.png",
+        "config": "7 0 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/7days.js, tag=梨涡签到领现金, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/Color/liwo.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/7days.txt, tag=梨涡签到领现金Cookie获取"
   }, {
         "config": "0 0 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/yiLi.js, tag=伊利乳品, img-url=https://raw.githubusercontent.com/id77/QuantumultX/master/icon/yiLi.png",
