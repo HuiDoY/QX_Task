@@ -1,3 +1,0 @@
-hostname = *.rr.tv
-#人人视频
-^https:\/\/api\.rr\.tv\/user\/profile url script-request-header https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js

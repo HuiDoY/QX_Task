@@ -1,3 +1,0 @@
-hostname = alipaymini.189.cn:8043
-#电信金豆
-https:\/\/alipaymini\.189\.cn:8043\/treasureBox\/queryUserActivityInfo url script-request-body https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/dianx/dxbox.js

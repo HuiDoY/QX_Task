@@ -1,3 +1,0 @@
-hostname = api.snail2020.com
-#蜗牛吧
-^https://api.snail2020.com/api/hb/hb/ url script-request-body https://raw.githubusercontent.com/age174/-/main/wnb.js

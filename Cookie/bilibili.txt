@@ -1,4 +1,0 @@
-hostname = *.bilibili.com, api.bilibili.com
-# 哔哩哔哩 Cookie
-^https:\/\/(m|api)\.bilibili\.com\/(x\/v\d\/history\/shadow|service-worker).* url script-request-header https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.cookie.js
-^https:\/\/(www|live)\.bilibili\.com\/?.? url script-request-header https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.cookie.js

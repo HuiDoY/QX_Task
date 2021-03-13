@@ -1,3 +1,0 @@
-hostname = ddstar.palmmob.com
-#嘀嗒星球
-https://ddstar.palmmob.com/ddstar_app/activity/ReceiveAdBonus? url script-request-header https://raw.githubusercontent.com/age174/-/main/ddxq.js

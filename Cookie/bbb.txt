@@ -1,3 +1,0 @@
-hostname = bububao.duoshoutuan.com
-#步步宝
-https://bububao.duoshoutuan.com/user/profile url script-request-header https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js
