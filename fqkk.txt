@@ -1,3 +1,3 @@
-hostname = m.*.top
+hostname = m.*
 #番茄看看
-^http://m.*.top/reada/getTask url script-request-header https://raw.githubusercontent.com/age174/-/main/fqkk.js
+^http://m.*./reada/getTask url script-request-header https://raw.githubusercontent.com/age174/-/main/fqkk.js
