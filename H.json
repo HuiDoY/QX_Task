@@ -42,7 +42,7 @@
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/iboxpay.txt, tag=笑谱Cookie获取"
   }, {
         "config": "12 0 19-24 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_city_cash.js, tag=城城分现金, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/chengchengfenxianjin.txt, tag=城城分现金Cookie获取"
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=城城分现金Cookie获取"
   }, {
         "config": "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/wkzz.js, tag=微客众智, img-url=https://ae01.alicdn.com/kf/Uff0a0bb9e66a479591c9b02c176fd276A.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/weikezhongzhi.txt, tag=微客众智Cookie获取"
