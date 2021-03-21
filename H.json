@@ -41,6 +41,9 @@
         "config": "0 */30 8-23 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.js, tag=笑谱, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/iboxpay.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/iboxpay.txt, tag=笑谱Cookie获取"
   }, {
+        "config": "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/66yd.js, tag=66阅读, img-url=https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/66yuedu.txt, tag=66阅读Cookie获取"
+  }, {
         "config": "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/wkzz.js, tag=微客众智, img-url=https://ae01.alicdn.com/kf/Uff0a0bb9e66a479591c9b02c176fd276A.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/weikezhongzhi.txt, tag=微客众智Cookie获取"
   }, {
