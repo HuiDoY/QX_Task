@@ -104,6 +104,9 @@
         "config": "40 * * * * https://qxzy.top/rules/QuantumultX/js/zy/dyjsb.js, tag=抖音极速版, img-url=https://qxzy.top/rules/QuantumultX/img/dyjsb.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/dyjsb.txt, tag=抖音极速版Cookie获取"
   }, {
+        "config": "0,30 * * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/bububao.js, tag=步步宝ziye版, img-url=https://qxzy.top/rules/QuantumultX/img/bbb.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/bbbziye.txt, tag=步步宝ziye版Cookie获取"
+  }, {
         "config": "0,30 * * * * https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js, tag=步步宝, img-url=https://qxzy.top/rules/QuantumultX/img/bbb.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/bbb.txt, tag=步步宝Cookie获取"
   }, {
