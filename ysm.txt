@@ -1,2 +1,3 @@
 hostname = .*.top
-^http://.*./yunonline/v1/ url script-request-body https://raw.githubusercontent.com/age174/-/main/ysm.js
+#云扫码
+^http://erd.+?/yunonline/v\d+/redirect/(?!undefined) url script-request-header https://raw.githubusercontent.com/age174/-/main/ysm.js
