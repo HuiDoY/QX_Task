@@ -44,6 +44,9 @@
         "config": "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/wkzz.js, tag=微客众智, img-url=https://ae01.alicdn.com/kf/Uff0a0bb9e66a479591c9b02c176fd276A.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/weikezhongzhi.txt, tag=微客众智Cookie获取"
   }, {
+        "config": "5 9-22 * * * https://raw.githubusercontent.com/age174/-/main/wcyd.js, tag=文创阅读, img-url=https://ae01.alicdn.com/kf/Ua6bd9417d492473f8ca0c3110b2176307.jpg",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/wenchuangyuedu.txt, tag=文创阅读Cookie获取"
+  }, {
         "config": "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/66yd.js, tag=66阅读, img-url=https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/66yuedu.txt, tag=66阅读Cookie获取"
   }, {
