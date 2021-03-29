@@ -1,0 +1,3 @@
+hostname = yd.hzstzs.com
+#文创阅读
+http://yd.hzstzs.com/hfTask/startRead url script-request-header https://raw.githubusercontent.com/age174/-/main/wcyd.js
