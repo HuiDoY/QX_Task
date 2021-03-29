@@ -1,4 +1,4 @@
 hostname = yd.hzstzs.com,qcjesnfs.bar
 #文创阅读
 http://yd.hzstzs.com/hfTask/startRead url script-request-header https://raw.githubusercontent.com/age174/-/main/wcyd.js
-http://qcjesnfs.bar/hfTask/static url script-request-header wcyd.js
+http://qcjesnfs.bar/hfTask/startRead url script-request-header wcyd.js
