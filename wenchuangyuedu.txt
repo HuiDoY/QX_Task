@@ -1,3 +1,4 @@
-hostname = yd.hzstzs.com, qcjesnfs.bar
+hostname = yd.hzstzs.com, rw.cgyouxi.site
 #文创阅读
 http://yd.hzstzs.com/hfTask/startRead url script-request-header https://raw.githubusercontent.com/age174/-/main/wcyd.js
+http://rw.cgyouxi.site/addons/zofui_taskself/public url script-request-header https://raw.githubusercontent.com/age174/-/main/wcyd.js
