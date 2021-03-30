@@ -53,14 +53,11 @@
         "config": "*/20 0-23 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js, tag=葱花视频, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/chonghua.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/conghuashipin.txt, tag=葱花视频Cookie获取"
   }, {
-        "config": "*/20 0-23 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js, tag=葱花视频, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/chonghua.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/conghuashipin.txt, tag=葱花视频Cookie获取"
-  }, {
         "config": "20 9 * * * https://raw.githubusercontent.com/age174/-/main/ximei.js, tag=西梅, img-url=https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/ximei.txt, tag=西梅Cookie获取"
   }, {
-        "config": "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/66yd.js, tag=66阅读, img-url=https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/66yuedu.txt, tag=66阅读Cookie获取"
+        "config": "10 8 * * * https://raw.githubusercontent.com/age174/-/main/zqwn.js, tag=最强蜗牛, img-url=https://ae01.alicdn.com/kf/U1748aeaa81a54cdf8797ed3fc54d76ef3.jpg",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/zuiqiangwoniu.txt, tag=最强蜗牛Cookie获取"
   }, {
         "config": "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/66yd.js, tag=66阅读, img-url=https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/66yuedu.txt, tag=66阅读Cookie获取"
