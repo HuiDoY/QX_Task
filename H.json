@@ -60,7 +60,7 @@
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/zuiqiangwoniu.txt, tag=最强蜗牛Cookie获取"
   }, {
         "config": "0 * * * * https://raw.githubusercontent.com/photonmang/quantumultX/master/58/58.js, tag=58同城, img-url=https://gitee.com/photonmang/quantumultX/raw/master/58.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/58tonghceng.txt, tag=58同城Cookie获取"
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/58tongcheng.txt, tag=58同城Cookie获取"
   }, {
         "config": "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/66yd.js, tag=66阅读, img-url=https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/66yuedu.txt, tag=66阅读Cookie获取"
