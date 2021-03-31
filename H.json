@@ -149,7 +149,7 @@
         "config": "0 12,23 * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/flw.js, tag=新返利-0.8¥, img-url=https://qxzy.top/rules/QuantumultX/img/fanli.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/flw.txt, tag=新返利Cookie获取"
   }, {
-        "config": "00 16 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js, tag=腾讯自选股, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png",
+        "config": "0 16 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js, tag=腾讯自选股, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/txstockqx.txt, tag=腾讯自选股Cookie获取"
   }, {
         "config": "3,30 0 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockcow.js, tag=活动-长牛来了, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png",
