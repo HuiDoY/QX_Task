@@ -1,0 +1,3 @@
+hostname = Host: api.yqzh.templet.vip
+#悦趣阅读
+^http://wechat04\.yqzh\.libcloud\.cn/\? url script-request-header https://raw.githubusercontent.com/age174/-/main/yqzh.js
