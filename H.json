@@ -50,6 +50,12 @@
         "config": "10-15 9 * * * https://raw.githubusercontent.com/age174/-/main/lgyy.js, tag=朗果英语, img-url=https://ae01.alicdn.com/kf/Uc3c35e1796624a7ca6a23c89c7f0dff2H.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/langguoyingyu.txt, tag=朗果英语Cookie获取"
   }, {
+        "config": "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/smz.js, tag=睡眠赚无限刷, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/shuimianzhuan.txt, tag=睡眠赚Cookie获取"
+  }, {
+        "config": "*/20 0-23 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js, tag=葱花视频, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/chonghua.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/conghuashipin.txt, tag=葱花视频Cookie获取"
+  }, {
         "config": "*/20 0-23 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js, tag=葱花视频, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/chonghua.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/conghuashipin.txt, tag=葱花视频Cookie获取"
   }, {
