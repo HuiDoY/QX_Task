@@ -1,0 +1,10 @@
+hostname = dkd-api.dysdk.com
+#多看点
+#红包
+https://dkd-api.dysdk.com/video/red_countdown url script-request-body https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/dkdvideo_cookie.js
+#视频
+https://dkd-api.dysdk.com/android_video/getaward url script-request-body https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/dkdvideo_cookie.js
+#提现
+https://dkd-api.dysdk.com/money/withdraw_do? url script-request-body https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/dkdvideo_cookie.js
+#转盘
+https://dkd-api.dysdk.com/lotto/index? url script-request-body https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/dkdvideo_cookie.js
