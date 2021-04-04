@@ -47,6 +47,12 @@
         "config": "5 9-22 * * * https://raw.githubusercontent.com/age174/-/main/wcyd.js, tag=文创阅读, img-url=https://ae01.alicdn.com/kf/Ua6bd9417d492473f8ca0c3110b2176307.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/wenchuangyuedu.txt, tag=文创阅读Cookie获取"
   }, {
+        "config": "*/4 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.js, tag=书旗小说姐姐版, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/shuqixiaoshuo.txt, tag=书旗小说姐姐版Cookie获取"
+  }, {
+        "config": "*/6 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqireadtime.js, tag=书旗小说姐姐刷时长, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/jisuban-shuashichang.txt, tag=极速版-刷时长Cookie获取"
+  }, {
         "config": "30 10 * * * https://raw.githubusercontent.com/age174/-/main/yqzh.js, tag=悦趣阅读, img-url=https://ae01.alicdn.com/kf/U428ddcb68e304bc0822743cad88f5142n.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/yuequyuedu.txt, tag=悦趣阅读Cookie获取"
   }, {
