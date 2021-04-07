@@ -57,7 +57,7 @@ Task:
 📌非常重要！非常重要！非常重要！:
 每次只可以启用一个重写引用conf,获取完cookie,务必关闭当前重写引用conf!在启用下一个重写引用conf。否则cookie抓取会出错,导致脚本执行错误，4个重写引用,绝对不可以同时开启两个，只可以一个！！！！！！！⭐️是也许获取会发生问题的,特别注意说明！！获取不到或者出错的,参照最底下的BOXJS对照表重新获取
 
-1.一般版本,请添加重写获取cookie：https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/shuqixiaoshuo/cookie.conf
+1.一般版本,请添加重写获取cookie：https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/shuqixiaoshuo/cookie.txt
 
 ✅【一键收取】:登录App-点击下方中间【福利】- 有气泡可以收取，点击招财猫中间图标【做任务赚金币】,即可获取成功
 ✅【一般-签到打卡】:登录App-点击下方中间【福利】- 点击【每日签到】 - 立即签到,即可获取成功
@@ -65,14 +65,14 @@ Task:
 ✅【一般-看视频金币】:登录App-点击下方中间【福利】- 点击【看视频领金币】- 看完一篇视频广告,即可获取成功
 ⭐️【一般-邀请书友】:登录App-点击下方中间【福利】- 点击【邀请书友】,分享到微信朋友圈 - 分享完成返回app,如果提示网路错误或者没有获取到，就继续分享朋友圈返回，大约三次奖励成功就可以获取到了
 
-2.极速版本,请添加重写获取cookie：https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/shuqixiaoshuo/spcookie.conf
+2.极速版本,请添加重写获取cookie：https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/shuqixiaoshuo/spcookie.txt
 
 ✅【极速-签到打卡】:登录App-点击下方中间【福利】-点击右侧图标【每日签到】- 立即签到,即可获取成功
 ✅【极速-阅读小说金币】:登录App-点击下方中间【福利】-点击左侧图标【赚金币】- 点击【30秒计时奖励】 - 找一本书点进去 -往右滑动看书 - 右上角会出现一个圈圈 -持续看书到获取金币,即可获取成功
 ⭐️【极速-看视频金币】:登录App-点击下方中间【福利】-点击左侧图标【赚金币】-点击【看视频领金币】- 看完一篇视频广告,即可获取成功
 ✅【极速-邀请书友】:登录App-点击下方中间【福利】-点击左侧图标【赚金币】-点击【邀请书友】,分享到微信朋友圈 - 分享完成返回app,即可获取成功
 
-3.一般版本-福利转转转，极速版本-浏览书城，极速版本-签到页面看视频,请添加重写获取cookie：https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/shuqixiaoshuo/lottery.conf
+3.一般版本-福利转转转，极速版本-浏览书城，极速版本-签到页面看视频,请添加重写获取cookie：https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/shuqixiaoshuo/lottery.txt
 ✅【一般-转盘机会】:登录App-点击下方中间【福利】-点击左侧图标【福利转转转】-点击下方【看视频抽奖】- 看完一篇视频广告,即可获取成功
 ⭐️【一般-转盘抽奖】:登录App-点击下方中间【福利】-点击左侧图标【福利转转转】-点击下方【金币抽奖】- 即可获取成功,如果，没有获取到，多试几次就可以
 ✅【极速-浏览书城15秒】:登录App-点击下方中间【福利】-点击左侧【赚金币】-点击【浏览书城】-右下角有计时-滑动或者停止会倒数计时,直到归零获取奖励,即可获取成功
