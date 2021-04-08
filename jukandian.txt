@@ -1,0 +1,3 @@
+hostname = www.xiaodouzhuan.cn
+#聚看点
+https:\/\/www\.xiaodouzhuan\.cn\/jkd\/newMobileMenu\/infoMe\.action url script-request-body https://qxzy.top/rules/QuantumultX/js/jukan.js
