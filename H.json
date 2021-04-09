@@ -11,17 +11,14 @@
         "config": "5 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/acfun/acfun.js, tag=AcFun, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/Color/acfun.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/acfun.txt, tag=AcFun Cookie获取"
   }, {
-        "config": "4 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东签到, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/Color/jd.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=京东签到Cookie获取"
-  }, {
-        "config": "3 0 * * * https://qxzy.top/rules/QuantumultX/js/jd_cash.js, tag=签到领现金, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=签到领现金Cookie获取"
-  }, {
         "config": "6 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js, tag=哔哩哔哩, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/Color/bilibili.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/bilibili.txt, tag=哔哩哔哩Cookie获取"
   }, {
         "config": "8 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧签到, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/Color/tieba.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/tieba.txt, tag=百度贴吧签到Cookie获取"
+  }, {
+        "config": "30 7-23 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js, tag=百度极速版, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/baidu_speed.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/baidu_speed.txt, tag=百度极速版Cookie获取"
   }, {
         "config": "10 */1 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点签到&开转盘宝箱&阅读时长, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/Color/youth.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/youth_cookie.txt, tag=中青看点签到&开转盘宝箱&阅读时长Cookie获取"
@@ -32,29 +29,41 @@
         "config": "30 6 * * * https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, tag=中青看点看看赚&浏览赚, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/Color/youth.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/youth_banner.txt, tag=中青看点看看赚&浏览赚Cookie获取"
   }, {
+        "config": "*/4 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.js, tag=书旗小说姐姐版, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/shuqixiaoshuo/shuqixiaoshuo.txt, tag=书旗小说姐姐版Cookie获取"
+  }, {
+        "config": "*/6 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqireadtime.js, tag=书旗小说姐姐刷时长, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/shuqixiaoshuo/everday.txt, tag=极速版-刷时长Cookie获取"
+  }, {
+        "config": "*/10 */2 * * * https://qxzy.top/rules/QuantumultX/js/jukan.js, tag=聚看点, img-url=https://qxzy.top/rules/QuantumultX/img/jukan.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/jukandian.txt, tag=聚看点Cookie获取"
+  }, {
+        "config": "0 16 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js, tag=腾讯自选股, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/txstockqx.txt, tag=腾讯自选股Cookie获取"
+  }, {
+        "config": "3,30 0 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockcow.js, tag=活动-长牛来了, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/txstockcow.txt, tag=活动-长牛来了Cookie获取"
+  }, {
+        "config": "0 */30 8-23 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.js, tag=笑谱, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/iboxpay.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/iboxpay.txt, tag=笑谱Cookie获取"
+  }, {
+        "config": "*/20 0-23 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js, tag=葱花视频, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/chonghua.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/conghuashipin.txt, tag=葱花视频Cookie获取"
+  }, {
+        "config": "*/23 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/dkdvideo.js, tag=多看点, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/duokandian.txt, tag=多看点Cookie获取"
+  }, {
         "config": "15 12,14,16,20 * * * https://raw.githubusercontent.com/age174/-/main/fqkk.js, tag=番茄看看, img-url=https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/fqkk.txt, tag=番茄看看Cookie获取"
   }, {
         "config": "15 12,14,16,20,22 * * * https://raw.githubusercontent.com/age174/-/main/ysm.js, tag=云扫码, img-url=https://s3.ax1x.com/2021/02/28/6CRWb8.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/ysm.txt, tag=云扫码Cookie获取"
   }, {
-        "config": "0 */30 8-23 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.js, tag=笑谱, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/iboxpay.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/iboxpay.txt, tag=笑谱Cookie获取"
-  }, {
-        "config": "*/10 */2 * * * https://qxzy.top/rules/QuantumultX/js/jukan.js, tag=聚看点, img-url=https://qxzy.top/rules/QuantumultX/img/jukan.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/jukandian.txt, tag=聚看点Cookie获取"
-  }, {
         "config": "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/wkzz.js, tag=微客众智, img-url=https://ae01.alicdn.com/kf/Uff0a0bb9e66a479591c9b02c176fd276A.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/weikezhongzhi.txt, tag=微客众智Cookie获取"
   }, {
         "config": "10 9-22 * * * https://raw.githubusercontent.com/age174/-/main/wcxcx.js, tag=文创阅读小程序, img-url=https://ae01.alicdn.com/kf/Ua6bd9417d492473f8ca0c3110b2176307.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/wenchuangyuedu.txt, tag=文创阅读小程序Cookie获取"
-  }, {
-        "config": "*/4 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.js, tag=书旗小说姐姐版, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/shuqixiaoshuo/shuqixiaoshuo.txt, tag=书旗小说姐姐版Cookie获取"
-  }, {
-        "config": "*/6 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqireadtime.js, tag=书旗小说姐姐刷时长, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/shuqixiaoshuo/everday.txt, tag=极速版-刷时长Cookie获取"
   }, {
         "config": "30 10 * * * https://raw.githubusercontent.com/age174/-/main/yqzh.js, tag=悦趣阅读, img-url=https://ae01.alicdn.com/kf/U428ddcb68e304bc0822743cad88f5142n.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/yuequyuedu.txt, tag=悦趣阅读Cookie获取"
@@ -64,12 +73,6 @@
   }, {
         "config": "15 9, * * * https://raw.githubusercontent.com/age174/-/main/vsh.js, tag=V生活, img-url=https://ae01.alicdn.com/kf/Uf0da879c7acd4c7bad91f0e5a97667e1O.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/vshenghuo.txt, tag=V生活Cookie获取"
-  }, {
-        "config": "*/20 0-23 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js, tag=葱花视频, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/chonghua.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/conghuashipin.txt, tag=葱花视频Cookie获取"
-  }, {
-        "config": "*/23 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/dkdvideo.js, tag=多看点, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/duokandian.txt, tag=多看点Cookie获取"
   }, {
         "config": "0,30 8-23 * * * https://raw.githubusercontent.com/age174/-/main/hlyy.js, tag=葫芦音乐, img-url=https://ae01.alicdn.com/kf/U49d941738c0c41569f7db55825943375f.jpg",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/huluyinyue.txt, tag=葫芦音乐Cookie获取"
@@ -155,20 +158,8 @@
         "config": "0,30 * * * * https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js, tag=步步宝, img-url=https://qxzy.top/rules/QuantumultX/img/bbb.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/bbb.txt, tag=步步宝Cookie获取"
   }, {
-        "config": "*/20 0-23 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js, tag=葱花视频, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/chonghua.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/chonghua.txt, tag=葱花视频Cookie获取"
-  }, {
-        "config": "30 7-23 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js, tag=百度极速版, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/baidu_speed.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/baidu_speed.txt, tag=百度极速版Cookie获取"
-  }, {
         "config": "0 12,23 * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/flw.js, tag=新返利-0.8¥, img-url=https://qxzy.top/rules/QuantumultX/img/fanli.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/flw.txt, tag=新返利Cookie获取"
-  }, {
-        "config": "0 16 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js, tag=腾讯自选股, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/txstockqx.txt, tag=腾讯自选股Cookie获取"
-  }, {
-        "config": "3,30 0 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockcow.js, tag=活动-长牛来了, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/txstockcow.txt, tag=活动-长牛来了Cookie获取"
   }, {
         "config": "7 0 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/7days.js, tag=梨涡签到领现金, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/Color/liwo.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/7days.txt, tag=梨涡签到领现金Cookie获取"
@@ -182,10 +173,58 @@
         "config": "20 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js, tag=人人视频, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/rrtv.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/rrtv.txt, tag=人人视频Cookie获取"
   }, {
+        "config": "0-59 9,12,22 * * * https://raw.githubusercontent.com/age174/-/main/shq.js, tag=生活圈, img-url=https://ftp.bmp.ovh/imgs/2021/04/e2b32e2eb2ad0cd3.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/shenghuoquan.txt, tag=生活圈Cookie获取"
+  }, {
+        "config": "4 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东签到, img-url=https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/Color/jd.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=京东签到Cookie获取"
+  }, {
+        "config": "7 0 * * * https://qxzy.top/rules/QuantumultX/js/jx_sign.js, tag=京喜签到, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=惊喜签到Cookie获取"
+  }, {
+        "config": "1 0 * * * https://qxzy.top/rules/QuantumultX/js/jd_speed_sign.js, tag=京东极速版, img-url=https://qxzy.top/rules/QuantumultX/img/jd_speed_sign.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=京东极速版Cookie获取"
+  }, {
+        "config": "2 0 * * * https://qxzy.top/rules/QuantumultX/js/jd_speed_redpocke.js, tag=京东极速版红包, img-url=https://qxzy.top/rules/QuantumultX/img/jd_speed_sign.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=京东极速版红包Cookie获取"
+  }, {
+        "config": "10 12 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd_tuan.js, tag=京东赚京东开团, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=京东赚京东开团Cookie获取"
+  }, {
+        "config": "38 10-23/3 * * * https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Task/jx_cfd.js, tag=京喜财富岛, img-url=https://qxzy.top/rules/QuantumultX/img/jxcfd.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=京喜财富岛Cookie获取"
+  }, {
         "config": "0 0 * * * https://raw.githubusercontent.com/HuiDoY/QX_Task/main/JS/jx_cfdtx.js, tag=京喜财富岛提现, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jx_sign.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/jx_sign.txt, tag=京喜财富岛提现Cookie获取"
   }, {
-        "config": "0-59 9,12,22 * * * https://raw.githubusercontent.com/age174/-/main/shq.js, tag=生活圈, img-url=https://ftp.bmp.ovh/imgs/2021/04/e2b32e2eb2ad0cd3.png",
-        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/shenghuoquan.txt, tag=生活圈Cookie获取"
+        "config": "13 0-23/1 * * * https://qxzy.top/rules/QuantumultX/js/jd_jdfactory.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_factory.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=东东工厂Cookie获取"
+  }, {
+        "config": "5 6-18/6 * * * https://qxzy.top/rules/QuantumultX/js/lxk0301/jd_fruit.js, tag=东东农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdnc.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=东东农场Cookie获取"
+  }, {
+        "config": "18 2-23/3 * * * https://qxzy.top/rules/QuantumultX/js/jd_dreamFactory.js, tag=京喜工厂, img-url=https://github.com/58xinian/icon/raw/master/jdgc.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=京喜工厂Cookie获取"
+  }, {
+        "config": "1 7-21/2 * * * https://qxzy.top/rules/QuantumultX/js/lxk0301/jd_plantBean.js, tag=京东种豆得豆, img-url=https://qxzy.top/rules/QuantumultX/img/jdzd.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=京东种豆得豆Cookie获取"
+  }, {
+        "config": "26 2-23 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory.js, tag=京喜工厂助力+参团, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=京喜工厂助力+参团Cookie获取"
+  }, {
+        "config": "15 6-18/6 * * * https://qxzy.top/rules/QuantumultX/js/lxk0301/jd_pet.js, tag=东东萌宠, img-url=https://qxzy.top/rules/QuantumultX/img/jdmc.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=东东萌宠Cookie获取"
+  }, {
+        "config": "12 2 * * * https://qxzy.top/rules/QuantumultX/js/jd_crazy_joy.js, tag=crazyJoy任务, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=crazyJoy任务Cookie获取"
+  }, {
+        "config": "10 7 * * * https://qxzy.top/rules/QuantumultX/js/jd_crazy_joy_coin.js, tag=crazyJoy挂机, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=crazyJoy挂机Cookie获取"
+  }, {
+        "config": "11 0 * * * https://qxzy.top/rules/QuantumultX/js/jd_jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzz.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=京东赚赚Cookie获取"
+  }, {
+        "config": "55 23 * * * https://qxzy.top/rules/QuantumultX/js/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=取关京东店铺商品Cookie获取"
   }]
 }
