@@ -181,5 +181,8 @@
   }, {
         "config": "0 0 * * * https://raw.githubusercontent.com/HuiDoY/QX_Task/main/JS/jx_cfdtx.js, tag=京喜财富岛提现, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jx_sign.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/jx_sign.txt, tag=京喜财富岛提现Cookie获取"
+  }, {
+        "config": "0-59 9,12,22 * * * https://raw.githubusercontent.com/age174/-/main/shq.js, tag=生活圈, img-url=https://ftp.bmp.ovh/imgs/2021/04/e2b32e2eb2ad0cd3.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/shenghuoquan.txt, tag=生活圈Cookie获取"
   }]
 }
