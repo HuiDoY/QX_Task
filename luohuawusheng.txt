@@ -1,0 +1,3 @@
+hostname = api.lhws.info
+#落花无生
+https://api.lhws.info/lhws/api/member/list/ad/new url script-request-body https://raw.githubusercontent.com/age174/-/main/lhws.js
