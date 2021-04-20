@@ -206,6 +206,9 @@
         "config": "0 0 * * * https://raw.githubusercontent.com/HuiDoY/QX_Task/main/JS/jx_cfdtx.js, tag=京喜财富岛提现, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jx_sign.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/jx_sign.txt, tag=京喜财富岛提现Cookie获取"
   }, {
+        "config": "10 7 * * * https://qxzy.top/rules/QuantumultX/js/jd_syj.js, tag=赚京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png",
+        "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=赚京豆Cookie获取"
+  }, {
         "config": "13 0-23/1 * * * https://qxzy.top/rules/QuantumultX/js/jd_jdfactory.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_factory.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=东东工厂Cookie获取"
   }, {
