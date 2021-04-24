@@ -236,6 +236,9 @@
         "config": "11 0 * * * https://qxzy.top/rules/QuantumultX/js/jd_jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzz.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=京东赚赚Cookie获取"
   }, {
+        "config": "20 13 * * 6 https://raw.githubusercontent.com/HuiDoY/QX_Task/main/JS/JD_Get_Code.js, tag=获取互助码, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
+        "addons": ""
+  }, {
         "config": "55 23 * * * https://qxzy.top/rules/QuantumultX/js/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png",
         "addons": "https://raw.githubusercontent.com/HuiDoY/QX_Task/Cookie/JD_DailyBonus.txt, tag=取关京东店铺商品Cookie获取"
   }]
