@@ -7,7 +7,7 @@
   "apps": [{
             "id": "ygkc",
             "name": "快乐猜歌",
-            "keys": ["ygkc", "ygkchd","ygkcurl2","ygkchd2","ygkcurl3","ygkchd3","ygkcurl4","ygkchd4","ygkcurl5", "ygkchd5"],
+            "keys": ["ygkcurl", "ygkchd","ygkcurl2","ygkchd2","ygkcurl3","ygkchd3","ygkcurl4","ygkchd4","ygkcurl5", "ygkchd5"],
             "author": "@feizao",
             "settings": [{
             "id": "ygkcstatus",
