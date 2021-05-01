@@ -17,14 +17,14 @@
             "desc": "0为不通知，1为全部通知"
         },
       {
-        "id": "cglmstatus",
+        "id": "ygkcstatus",
         "name": "当前账号",
         "val": "1",
         "type": "number",
         "desc": "当前账号对应"
       },
       {
-        "id": "cglmcount",
+        "id": "ygkccount",
         "name": "账号个数",
         "val": "1",
         "type": "number",
