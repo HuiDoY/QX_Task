@@ -1,14 +1,14 @@
 {
-  "id": "Ariszy.app.sub",
-  "name": "Ariszy 应用订阅",
-  "author": "@Ariszy",
+  "id": "Ari.app.sub",
+  "name": "Ari",
+  "author": "@Ari",
   "icon": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/Ariszy.png",
   "repo": "https://github.com/Ariszy/Private-Script",
   "apps": [{
-    "id": "cglm",
-    "name": "猜歌联萌",
+    "id": "ygkc",
+    "name": "快乐猜歌",
     "keys": ["ygkcurl", "ygkchd"],
-    "author": "@Ariszy",
+    "author": "@Ari",
     "settings": [{
             "id": "tz",
             "name": "静默运行",
@@ -33,6 +33,4 @@
     "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/cglm.js",
     "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/cglm-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/cglm.png"],
     "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/cglm.js"
-  }
- ]
-}
+  }]}
