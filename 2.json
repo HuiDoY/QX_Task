@@ -6,7 +6,7 @@
   "repo": "https://github.com/Ariszy/Private-Script",
   "apps": [{
             "id": "ygkc",
-            "name": "陌嗨视频",
+            "name": "快乐猜歌",
             "keys": ["ygkcurl", "ygkchd","ygkcurl2","ygkchd2","ygkcurl3","ygkchd3","ygkcurl4","ygkchd4","ygkcurl5", "ygkchd5"],
             "author": "@feizao",
             "settings": [{
@@ -23,7 +23,7 @@
             "type": "number",
             "desc": "需要几个账号，数字为几"
     }],
-            "repo": "https://github.com/age174/-/blob/main/ygkc.js",
+            "repo": "https://github.com/HuiDoY/QX_Task/blob/main/klcg.js",
             "icons": ["https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/mhdsp.png", "https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/mhdsp.png"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/ygkc.js"
+            "script": "https://raw.githubusercontent.com/HuiDoY/QX_Task/main/klcg.js"
     }]}
