@@ -30,7 +30,7 @@
         "type": "number",
         "desc": "需要几个账号，数字为几"
       }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/cglm.js",
+    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/ygkc.js",
     "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/cglm-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/cglm.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/cglm.js"
+    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/ygkc.js"
   }]}
