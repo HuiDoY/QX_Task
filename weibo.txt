@@ -1,4 +1,4 @@
 hostname = api.weibo.cn, m.weibo.cn
 # 新浪微博 Cookie
-https:\/\/api\.weibo\.cn\/\d\/users\/show url script-request-header https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js
-https:\/\/m\.weibo\.cn\/c\/checkin\/ug\/v2\/signin\/module\?module url script-request-header https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js
+https:\/\/api\.weibo\.cn\/\d\/users\/show url script-request-header https://raw.githubusercontent.com/Sunert/Script/master/Task/weibo.js
+https:\/\/m\.weibo\.cn\/c\/checkin\/ug\/v2\/signin\/module\?module url script-request-header https://raw.githubusercontent.com/Sunert/Script/master/Task/weibo.js
