@@ -1,0 +1,3 @@
+#疯狂森林
+^http://yunshu.haoshi.co/index.php/index/wallet/index url script-request-header https://raw.githubusercontent.com/age174/-/main/fksl.js
+hostname=yunshu.haoshi.co
