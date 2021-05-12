@@ -6,7 +6,7 @@
             "repo": "https://github.com/age174/-",
             "apps": [{
             "id": "wdwhd",
-            "name": "多看点",
+            "name": "我的网红店",
             "keys": ["wdwhdspbody", "wdwhdhd", "wdwhdbody", "wdwhdspbody2", "wdwhdhd2", "wdwhdbody2""wdwhdspbody3", "wdwhdhd3", "wdwhdbody3"],
             "author": "@f",
             "settings": [{
