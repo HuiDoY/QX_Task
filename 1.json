@@ -6,7 +6,7 @@
   "repo": "https://github.com/Ariszy/Private-Script",
   "apps": [{
     "id": "wdwhd",
-    "name": "我的网红店",
+    "name": "我DWH店",
     "keys": ["wdwhdspbody", "wdwhdhd", "wdwhdbody", "wdwhdspbody2", "wdwhdhd2", "wdwhdbody2","wdwhdspbody3", "wdwhdhd3", "wdwhdbody3"],
     "author": "@As",
     "settings": [{
