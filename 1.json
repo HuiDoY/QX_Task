@@ -7,7 +7,7 @@
   "apps": [{
     "id": "wdwhd",
     "name": "我DWH店",
-    "keys": ["wdwhdspbody", "wdwhdhd", "wdwhdbody", "wdwhdspbody2", "wdwhdhd2", "wdwhdbody2","wdwhdspbody3", "wdwhdhd3", "wdwhdbody3"],
+    "keys": ["dwyjyspbody", "dwyjyhd", "dwyjybody", "dwyjyspbody2", "dwyjyhd2", "dwyjybody2","dwyjyspbody3", "dwyjyhd3", "wdwyjybody3"],
     "author": "@As",
     "settings": [{
             "id": "tz",
@@ -17,14 +17,14 @@
             "desc": "0为不通知，1为全部通知"
         },
       {
-        "id": "wdwhdstatus",
+        "id": "dwyjystatus",
         "name": "当前账号",
         "val": "1",
         "type": "number",
         "desc": "当前账号对应"
       },
       {
-        "id": "wdwhdcount",
+        "id": "dwyjycount",
         "name": "账号个数",
         "val": "1",
         "type": "number",
