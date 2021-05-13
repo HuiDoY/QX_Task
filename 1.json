@@ -6,7 +6,7 @@
   "repo": "https://github.com/Ariszy/Private-Script",
   "apps": [{
     "id": "wdwhd",
-    "name": "我DWH店",
+    "name": "dwy",
     "keys": ["dwyjyspbody", "dwyjyhd", "dwyjybody", "dwyjyspbody2", "dwyjyhd2", "dwyjybody2","dwyjyspbody3", "dwyjyhd3", "wdwyjybody3"],
     "author": "@As",
     "settings": [{
