@@ -33,9 +33,10 @@
     "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/cglm.js",
     "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/cglm-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/cglm.png"],
     "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/cglm.js"
-  },{
-    "id": "wdwhd",
-    "name": "dwy",
+  },
+  {
+    "id": "kkjhd",
+    "name": "dwyg",
     "keys": ["kkjspbody", "kkjhd", "kkjbody","kkjurl"],
     "author": "@As",
     "settings": [{
@@ -59,8 +60,7 @@
         "type": "number",
         "desc": "需要几个账号，数字为几"
       }],
-    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/cglm.js",
+    "repo": "https://github.com/Ariszy/Private-Script/blob/master/Scripts/cgl.js",
     "icons": ["https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/cglm-mini.png", "https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/cglm.png"],
-    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/cglm.js"
-  }
-          ]}
+    "script": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/cgl.js"
+  }]}
